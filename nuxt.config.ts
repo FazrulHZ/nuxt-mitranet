@@ -53,7 +53,7 @@ export default defineNuxtConfig({
         {
           hid: "og-image",
           property: "og:image",
-          content: "https://mitranusa.id/logo/logo2.png",
+          content: "https://mitranusa.id/logo/logo3.png",
         },
         {
           hid: "og-url",
