@@ -13,7 +13,7 @@
         <v-col cols="12" md="6" class="my-auto">
           <v-row>
             <v-col cols="6">
-              <v-card class="pa-3 text-center" color="primary">
+              <v-card class="pa-3 text-center" color="primary" min-height="200">
                 <v-icon size="100">mdi-whatsapp</v-icon>
                 <v-divider class="my-3"></v-divider>
                 <div>Whatsapp-API</div>
@@ -21,7 +21,7 @@
             </v-col>
 
             <v-col cols="6">
-              <v-card class="pa-3 text-center" color="primary">
+              <v-card class="pa-3 text-center" color="primary" min-height="200">
                 <v-icon size="100">mdi-lan</v-icon>
                 <v-divider class="my-3"></v-divider>
                 <div>Network Management</div>
@@ -29,7 +29,7 @@
             </v-col>
 
             <v-col cols="6">
-              <v-card class="pa-3 text-center" color="primary">
+              <v-card class="pa-3 text-center" color="primary" min-height="200">
                 <v-icon size="100">mdi-xml</v-icon>
                 <v-divider class="my-3"></v-divider>
                 <div>APP Develop</div>
@@ -37,7 +37,7 @@
             </v-col>
 
             <v-col cols="6">
-              <v-card class="pa-3 text-center" color="primary">
+              <v-card class="pa-3 text-center" color="primary" min-height="200">
                 <v-icon size="100">mdi-cogs</v-icon>
                 <v-divider class="my-3"></v-divider>
                 <div>Service</div>

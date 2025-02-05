@@ -153,10 +153,10 @@
 
       <v-row class="hidden-md-and-up">
         <v-col cols="6">
-          <v-card class="pa-3 text-center">
+          <v-card class="pa-3 text-center" min-height="270px">
             <v-row>
               <v-col cols="12">
-                <v-avatar size="150px">
+                <v-avatar size="130px">
                   <v-img
                     alt="Avatar"
                     src="~/assets/gambar/team/alif.png"
@@ -176,10 +176,10 @@
         </v-col>
 
         <v-col cols="6">
-          <v-card class="pa-3 text-center">
+          <v-card class="pa-3 text-center" min-height="270px">
             <v-row>
               <v-col cols="12">
-                <v-avatar size="150px">
+                <v-avatar size="130px">
                   <v-img
                     alt="Avatar"
                     src="~/assets/gambar/team/ana.png"
@@ -199,10 +199,10 @@
         </v-col>
 
         <v-col cols="6">
-          <v-card class="pa-3 text-center">
+          <v-card class="pa-3 text-center" min-height="270px">
             <v-row>
               <v-col cols="12">
-                <v-avatar size="150px">
+                <v-avatar size="130px">
                   <v-img
                     alt="Avatar"
                     src="~/assets/gambar/team/karina.png"
@@ -222,10 +222,10 @@
         </v-col>
 
         <v-col cols="6">
-          <v-card class="pa-3 text-center">
+          <v-card class="pa-3 text-center" min-height="270px">
             <v-row>
               <v-col cols="12">
-                <v-avatar size="150px">
+                <v-avatar size="130px">
                   <v-img
                     alt="Avatar"
                     src="~/assets/gambar/team/kris.png"
@@ -245,10 +245,10 @@
         </v-col>
 
         <v-col cols="6">
-          <v-card class="pa-3 text-center">
+          <v-card class="pa-3 text-center" min-height="270px">
             <v-row>
               <v-col cols="12">
-                <v-avatar size="150px">
+                <v-avatar size="130px">
                   <v-img
                     alt="Avatar"
                     src="~/assets/gambar/team/akil.png"
@@ -268,10 +268,10 @@
         </v-col>
 
         <v-col cols="6">
-          <v-card class="pa-3 text-center">
+          <v-card class="pa-3 text-center" min-height="270px">
             <v-row>
               <v-col cols="12">
-                <v-avatar size="150px">
+                <v-avatar size="130px">
                   <v-img
                     alt="Avatar"
                     src="~/assets/gambar/team/david.png"
