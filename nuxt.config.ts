@@ -33,7 +33,8 @@ export default defineNuxtConfig({
         },
         {
           name: "keywords",
-          content: "Mitranet, Mitranusa, Mitranet Data Nusantara, PT Mitranet Data Nusantara, Gorontalo, Provinsi Gorontalo",
+          content:
+            "Mitranet, Mitranusa, Mitranet Data Nusantara, PT Mitranet Data Nusantara, Gorontalo, Provinsi Gorontalo",
         },
 
         // OG Tags
@@ -52,7 +53,7 @@ export default defineNuxtConfig({
         {
           hid: "og-image",
           property: "og:image",
-          content: "https://fia.co.id/logo/newlogo.png",
+          content: "https://mitranusa.id/logo/logo2.png",
         },
         {
           hid: "og-url",
