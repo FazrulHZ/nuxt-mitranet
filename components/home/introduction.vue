@@ -5,7 +5,8 @@
         <v-col cols="12" md="6">
           <div class="mb-10 text-primary">
             <div class="mb-n4">
-              <h1 style="font-size: 9vh">INTRODUCTION</h1>
+              <h1 class="hidden-md-and-down" style="font-size: 9vh">INTRODUCTION</h1>
+              <h1 class="hidden-md-and-up" style="font-size: 50px">INTRODUCTION</h1>
             </div>
           </div>
 

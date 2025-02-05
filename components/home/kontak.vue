@@ -63,14 +63,16 @@
         </v-col>
 
         <v-col cols="12" md="6" class="pb-10">
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d644.5018909563352!2d123.0452817785285!3d0.5544273700339273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x287d9984c9eec113%3A0x9db6c26cf3b9c973!2sPT%20Mitranet%20Data%20Nusantara!5e0!3m2!1sid!2sid!4v1738732523944!5m2!1sid!2sid"
-            width="600"
-            height="450"
-            style="border: 0"
-            loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade"
-          ></iframe>
+          <v-card>
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d644.5018909563352!2d123.0452817785285!3d0.5544273700339273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x287d9984c9eec113%3A0x9db6c26cf3b9c973!2sPT%20Mitranet%20Data%20Nusantara!5e0!3m2!1sid!2sid!4v1738732523944!5m2!1sid!2sid"
+              width="600"
+              height="450"
+              style="border: 0"
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"
+            ></iframe>
+          </v-card>
         </v-col>
       </v-row>
     </v-container>
